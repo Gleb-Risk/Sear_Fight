@@ -1,6 +1,7 @@
 # Sear_Fight
 
 # HTNL
+```
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -55,9 +56,11 @@
   <script src="sea_fight.js"></script>
 </body>
 </html>
+```
 
 
 # CSS
+```
 * {
   margin: 0;
   padding: 0;
@@ -251,9 +254,11 @@ header {
     font-size: 12px;
   }
 }
+```
 
 
 #JavaScript
+```
 // Глобальные переменные
 let userField = [];
 let compField = [];
@@ -932,3 +937,4 @@ document.getElementById('btnNewGame').onclick = () => {
 };
 
 initGame();
+```
